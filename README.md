@@ -15,9 +15,10 @@ n/a
 
 Use GitHub https://github.com/paultrapani/02-chall to pull down the repository code, make any necessary edits and then push it back up to re-publish.  The live page for this project is currently located at https://paultrapani.github.io/02-chall/
 
-## Usage
 
-n/a
+## Website Screenshot
+
+[Set up project integrations](./assets/images/Horiseon_Website_Screenshot.jpg)
 
 ## Credits
 
