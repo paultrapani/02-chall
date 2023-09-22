@@ -1,4 +1,5 @@
-# <Your-Project-Title>
+# UC Davis Coding Bootcamp Challenge #1/Assignment #1
+
 
 ## Description
 
